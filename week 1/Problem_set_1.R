@@ -1,4 +1,4 @@
-#1 Exercises
+#1 Exercises (Adapted from Bodo Winters (Statistics for linguists)
 #1.1 Exercise 1: Familiarizing Yourself with Base Plotting
 #Type the following commands into a script and then execute them together:
 plot(x = 1, y = 1, type = 'n',
