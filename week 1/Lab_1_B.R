@@ -1,21 +1,21 @@
 # LAB 1 B.
+# Adapted form Bodo Winter (Statistics for linguists)
 # SIMPLE MATHS WITH R
-
 
 # --------------------------------------------------------
 # 1.2. Baby steps: simple math with R
 
 # Addition:
 
-2 + 2
+4 + 4
 
 # Subtraction:
 
-3 - 2
+3 - 1
 
 # Incomplete command; abort with ESC:
 
-3 -
+5 -
 
 # Division:
 
@@ -23,7 +23,7 @@
 
 # Multiplication:
 
-3 * 2
+5 * 2
 
 # Two, squared (2 * 2):
 
